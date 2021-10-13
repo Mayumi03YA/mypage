@@ -1,0 +1,13 @@
+h2 {
+  color: green;
+}
+
+.superimportant {
+  color: red;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#fst {
+  color: green;
+}
